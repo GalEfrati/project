@@ -1,0 +1,94 @@
+{
+    "products":[
+        {
+            "id":0,
+            "name":"owl bag",
+            "category" :"bags",
+            "picture": "owl-bag.JPG",
+            "pictureText": "owl bag",
+            "description": "Big tote bag with a cute owl printing",
+            "price": "49.99$"
+        },
+        {
+            "id" :1,
+            "name":"grey tote bag",
+            "category" : "bags",
+            "picture" : "grey-tote-bag.JPG",
+            "pictureText" : "grey tote bag",
+            "description" : "Grey tote bag, an elegant bag for everyday use ",
+            "price" : "59.99$"
+        },
+        {
+            "id" :2,
+            "name":"off-white tote with golden medalion",
+            "category" : "bags",
+            "picture" : "off-white-tote-medalion.JPG",
+            "pictureText" : "off-white tote with golden medalion",
+            "description" : "Elegant tote bag for the evening",
+            "price" : "79.99$"
+        },
+        {
+            "id" :3,
+            "name":"chinese medalion",
+            "category" : "jewels",
+            "picture" : "chinese-medalion.jpg",
+            "pictureText" : "chinese medalion",
+            "description" : "Antiqued medalion inspired by chinese art",
+            "price" : "14.99$"
+        },
+        {
+            "id" :4,
+            "name":"cat sack",
+            "category" : "bags",
+            "picture" : "cat-sack.JPG",
+            "pictureText" : "cat sack",
+            "description" : "Cat sack for shoping or grocery",
+            "price" : "29.99$"
+        },
+        {
+            "id" :5,
+            "name": "leaf necklace",
+            "category" : "jewels",
+            "picture" : "leaf-necklace.jpg",
+            "pictureText" : "leaf necklace",
+            "description" : "Leaf necklace inspired by the beauty of nature ",
+            "price" : "19.99$"
+        },
+        {
+            "id" :6,
+            "name" :"buds necklace",
+            "category" : "jewels",
+            "picture" : "buds-necklace.jpg",
+            "pictureText" : "buds necklace",
+            "description" : "Simple yet elegant buds necklace",
+            "price" : "9.99$"
+        },
+        {
+            "id" :7,
+            "name": "butterfly dress",
+            "category" : "clothes",
+            "picture" : "butterfly dress.jpg",
+            "pictureText" : "butterfly dress",
+            "description" : "a blue butterfly dress, perfect for a sunny day",
+            "price" : "89.99$"
+        },
+        {
+            "id" :8,
+            "name": "mashroom hoodie",
+            "category" : "clothes",
+            "picture" : "mashrum hoodie.jpg",
+            "pictureText" : "leaf necklace",
+            "description" : "warm hoodie with mashroom on it,",
+            "price" : "59.99$"
+        },
+        {
+            "id" :9,
+            "name": "brown top",
+            "category" : "clothes",
+            "picture" : "brown top.webp",
+            "pictureText" : "brown top",
+            "description" : "brown top with for winter ",
+            "price" : "19.99$"
+        }
+    ]
+}

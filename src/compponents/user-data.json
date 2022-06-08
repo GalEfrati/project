@@ -1,0 +1,92 @@
+{
+    "users" : [
+        {
+            "userid" : 0,
+            "email":"gal@hotmail.com",
+            "userName": "gal",
+            "password": "1234",
+            "userType": "admin",
+            "profilePicture": "./images/profile-images/gal-profile.jpg",
+            "cart":[]
+        },
+        {
+            "userid":1,
+            "email":"shirel@hotmail.com",
+            "userName": "shirel",
+            "password": "1234",
+            "userType": "buyer",
+            "profilePicture": "./images/profile-images/shirel-profile.jpg",
+            "cart":[        {
+                "id" :1,
+                "name" :"grey tote bag",
+                "category" : "bags",
+                "picture" : "grey-tote-bag.JPG",
+                "pictureText" : "grey tote bag",
+                "description" : "Grey tote bag, an elegant bag for everyday use ",
+                "price" : "59.99$"
+            }]
+        },
+        {
+            "userid" : 0,
+            "email":"itzhak@walla.com",
+            "userName": "itzik",
+            "password": "EnterTheMetrix",
+            "userType": "user",
+            "profilePicture": "./images/profile-images/itzik-profile.jpg",
+            "cart":[        {
+                "id" :4,
+                "name":"cat sack",
+                "category" : "bags",
+                "picture" : "cat-sack.JPG",
+                "pictureText" : "cat sack",
+                "description" : "Cat sack for shoping or grocery",
+                "price" : "29.99$"
+            },
+            {
+                "id" :5,
+                "name": "leaf necklace",
+                "category" : "jewels",
+                "picture" : "leaf-necklace.jpg",
+                "pictureText" : "leaf necklace",
+                "description" : "Leaf necklace inspired by the beauty of nature ",
+                "price" : "19.99$"
+            }]
+        },
+        {
+            "userid" : 0,
+            "email":"tal@gmail.com",
+            "userName": "tal.e",
+            "password": "tale.814",
+            "userType": "user",
+            "profilePicture": "./images/profile-images/tal-profile.jpg",
+            "cart":[]
+        },
+        {
+            "userid" : 0,
+            "email":"tom@hotmail.com",
+            "userName": "tom",
+            "password": "tom27",
+            "userType": "user",
+            "profilePicture": "./images/profile-images/tom-profile.webp",
+            "cart":[        {
+                "id":0,
+                "name":"owl bag",
+                "category" :"bags",
+                "picture": "owl-bag.JPG",
+                "pictureText": "owl bag",
+                "description": "Big tote bag with a cute owl printing",
+                "price": "49.99$"
+            },
+            {
+                "id" :1,
+                "name":"grey tote bag",
+                "category" : "bags",
+                "picture" : "grey-tote-bag.JPG",
+                "pictureText" : "grey tote bag",
+                "description" : "Grey tote bag, an elegant bag for everyday use ",
+                "price" : "59.99$"
+            }]
+        }
+        
+    ]
+}
